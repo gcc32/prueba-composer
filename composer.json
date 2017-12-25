@@ -1,11 +1,11 @@
 {
-    "name": "gonzalo/prueba-composer",
-    "description": "Paquete de prueba",
+    "name": "gdelacc/prueba-composer",
+    "description": "Paquete de prueba para enseñar el funcionamiento de composer",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Gonzalo",
+            "name": "Gonzalo de la Cruz de la Cueva",
             "email": "gdelacruz92@yahoo.es"
         }
     ],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Pruebita": "src/"
+            "NombreEspacioPrueba": "src/"
         }
     }
 }
