@@ -1,6 +1,6 @@
 {
     "name": "gdelacc/prueba-composer",
-    "description": "Paquete de prueba para enseñar el funcionamiento de composer",
+    "description": "Paquete de prueba para enseñar el funcionamiento de composer.",
     "type": "library",
     "license": "MIT",
     "authors": [
